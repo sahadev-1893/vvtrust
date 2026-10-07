@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="vvt_navy">#FF0B2545</color>
+    <color name="vvt_navy_dark">#FF07172C</color>
+    <color name="vvt_navy_light">#FF133E6E</color>
+    <color name="vvt_gold">#FFFFD166</color>
+    <color name="vvt_orange">#FFF77F00</color>
+    <color name="vvt_bg">#FFF8F9FA</color>
+    <color name="vvt_surface">#FFFFFFFF</color>
+    <color name="vvt_text_primary">#FF1A202C</color>
+    <color name="vvt_text_secondary">#FF718096</color>
+    <color name="vvt_error">#FFE53E3E</color>
+    <color name="vvt_progress">#FF133E6E</color>
+</resources>

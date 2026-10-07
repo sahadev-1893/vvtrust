@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vishwa Vinayak Trust</string>
+    <string name="app_short_name">VVT</string>
+    <string name="tagline">Group of Institutions</string>
+    
+    <!-- Offline & Error State -->
+    <string name="no_internet_title">NO INTERNET CONNECTION</string>
+    <string name="no_internet_desc">Please check your internet connection and try again.</string>
+    <string name="error_loading_title">Unable to load the website</string>
+    <string name="error_loading_desc">The page could not be reached. Please check your network and retry.</string>
+    <string name="retry_button">RETRY</string>
+    <string name="try_again_button">TRY AGAIN</string>
+    
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_dialog_title">Exit App</string>
+    <string name="exit_dialog_message">Do you want to exit the app?</string>
+    <string name="dialog_cancel">CANCEL</string>
+    <string name="dialog_exit">EXIT</string>
+    
+    <!-- Loading Screen -->
+    <string name="loading_text">Connecting to VVT...</string>
+    
+    <!-- Permissions & File Selection -->
+    <string name="choose_file_title">Upload File</string>
+    <string name="camera_permission_rationale">Camera permission is required to capture photos for upload.</string>
+    <string name="permission_denied_toast">Camera permission denied</string>
+    
+    <!-- Downloads -->
+    <string name="download_started">Download started…</string>
+    <string name="download_failed">Download failed to start</string>
+    
+    <!-- External Links Fallback -->
+    <string name="cannot_open_link">Cannot open this link</string>
+    <string name="whatsapp_not_installed">WhatsApp is not installed on this device</string>
+</resources>

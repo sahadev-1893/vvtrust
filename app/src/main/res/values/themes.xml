@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.MyApplication" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/vvt_navy</item>
+        <item name="android:navigationBarColor">@color/vvt_navy_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

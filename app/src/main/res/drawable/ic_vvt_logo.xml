@@ -1,0 +1,51 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="160dp"
+    android:height="160dp"
+    android:viewportWidth="160"
+    android:viewportHeight="160">
+    
+    <!-- Outer Decorative Emblem Circle -->
+    <path
+        android:fillColor="#0B2545"
+        android:pathData="M80,8 C40.24,8 8,40.24 8,80 C8,119.76 40.24,152 80,152 C119.76,152 152,119.76 152,80 C152,40.24 119.76,8 80,8 Z" />
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M80,12 C42.45,12 12,42.45 12,80 C12,117.55 42.45,148 80,148 C117.55,148 148,117.55 148,80 C148,42.45 117.55,12 80,12 Z M80,144 C44.65,144 16,115.35 16,80 C16,44.65 44.65,16 80,16 C115.35,16 144,44.65 144,80 C144,115.35 115.35,144 80,144 Z" />
+
+    <!-- Center Torch Flame (Knowledge) -->
+    <path
+        android:fillColor="#F77F00"
+        android:pathData="M80,26 C75.5,36.5 71,42.5 71,50 C71,56 75.5,60.5 80,60.5 C84.5,60.5 89,56 89,50 C89,42.5 84.5,36.5 80,26 Z" />
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M80,36 C78,42 76,45 76,50 C76,53 78,56 80,56 C82,56 84,53 84,50 C84,45 82,42 80,36 Z" />
+
+    <!-- Open Book -->
+    <!-- Left Page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M76,68 L40,60 C36,59 33,62 33,66 L33,103 C33,106.5 36,109.5 39.5,110 L73,116 C75.5,116.5 76,115 76,113 L76,68 Z" />
+    <!-- Right Page -->
+    <path
+        android:fillColor="#F0F4F8"
+        android:pathData="M84,68 L120,60 C124,59 127,62 127,66 L127,103 C127,106.5 124,109.5 120.5,110 L87,116 C84.5,116.5 84,115 84,113 L84,68 Z" />
+
+    <!-- Book Spine -->
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M77,65 L83,65 L83,118 L77,118 Z" />
+
+    <!-- Lines on left page -->
+    <path
+        android:fillColor="#0B2545"
+        android:pathData="M42,74 L68,70 L68,74 L42,78 Z M42,84 L68,80 L68,84 L42,88 Z M42,94 L66,90 L66,94 L42,98 Z" />
+    <!-- Lines on right page -->
+    <path
+        android:fillColor="#0B2545"
+        android:pathData="M92,70 L118,74 L118,78 L92,74 Z M92,80 L118,84 L118,88 L92,84 Z M94,90 L118,94 L118,98 L94,94 Z" />
+
+    <!-- Trust Ribbon Banner below -->
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M48,122 C58,128 70,131 80,131 C90,131 102,128 112,122 C113.2,124 111.5,126.5 109,127.5 C100,132 90,134 80,134 C70,134 60,132 51,127.5 C48.5,126.5 46.8,124 48,122 Z" />
+</vector>

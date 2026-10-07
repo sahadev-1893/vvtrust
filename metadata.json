@@ -1,0 +1,6 @@
+{
+  "name": "Vishwa Vinayak Trust",
+  "description": "Official mobile app for Vishwa Vinayak Trust (VVT) Group of Institutions - providing seamless access to courses, notices, admissions, and campus resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
